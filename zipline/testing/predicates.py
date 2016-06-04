@@ -25,6 +25,7 @@ from nose.tools import (  # noqa
     assert_not_is_instance,
     assert_raises,
     assert_raises_regexp,
+    assert_regex,
     assert_regexp_matches,
     assert_sequence_equal,
     assert_set_equal,
